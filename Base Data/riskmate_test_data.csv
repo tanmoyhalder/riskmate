@@ -1,0 +1,5 @@
+gender,customer_age,policy_tenure,number_policies,benefit_CI,benefit_TPD,benefit_LI,benefit_IP,smoker_status,bmi_rating,occupation_class,income,uw_advdisc_rulealias
+1,35,9,3,1,0,0,0,1,21,Administration and Management,107577,Seeking treatment
+0,43,5,3,0,1,1,1,1,42,Legal,84667,Previous Claim
+1,37,7,1,0,0,1,1,0,29,Media and Communication,78532,Generalised back and neck pain / stiffness
+0,26,9,3,1,1,0,1,0,21,Creative and Design,114423,Generalised back and neck pain / stiffness
